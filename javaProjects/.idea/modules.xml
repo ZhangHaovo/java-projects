@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/d0_API/d0_API.iml" filepath="$PROJECT_DIR$/d0_API/d0_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d10_Package/d10_Package.iml" filepath="$PROJECT_DIR$/d10_Package/d10_Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d11_Final-Constant-Enum/d11_Final-Constant-Enum.iml" filepath="$PROJECT_DIR$/d11_Final-Constant-Enum/d11_Final-Constant-Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d12_Abstract-Interface/d12_Abstract-Interface.iml" filepath="$PROJECT_DIR$/d12_Abstract-Interface/d12_Abstract-Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d13_Polymorphic/d13_Polymorphic.iml" filepath="$PROJECT_DIR$/d13_Polymorphic/d13_Polymorphic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d14_InnerClass/d14_InnerClass.iml" filepath="$PROJECT_DIR$/d14_InnerClass/d14_InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d15_Integer-Regex-Lambda/d15_Integer-Regex-Lambda.iml" filepath="$PROJECT_DIR$/d15_Integer-Regex-Lambda/d15_Integer-Regex-Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d16_Collection/d16_Collection.iml" filepath="$PROJECT_DIR$/d16_Collection/d16_Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d17_Map/d17_Map.iml" filepath="$PROJECT_DIR$/d17_Map/d17_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d18_Stream-Exception-Log/d18_Stream-Exception-Log.iml" filepath="$PROJECT_DIR$/d18_Stream-Exception-Log/d18_Stream-Exception-Log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d19_ProjectsDemo/d19_ProjectsDemo.iml" filepath="$PROJECT_DIR$/d19_ProjectsDemo/d19_ProjectsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d1_Speedkey-Variable/d1_Speedkey-Variable.iml" filepath="$PROJECT_DIR$/d1_Speedkey-Variable/d1_Speedkey-Variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d20_File-io/d20_File-io.iml" filepath="$PROJECT_DIR$/d20_File-io/d20_File-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d21_Thread/d21_Thread.iml" filepath="$PROJECT_DIR$/d21_Thread/d21_Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d2_Opreator-Type/d2_Opreator-Type.iml" filepath="$PROJECT_DIR$/d2_Opreator-Type/d2_Opreator-Type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d3_Javabean-Constructor/d3_Javabean-Constructor.iml" filepath="$PROJECT_DIR$/d3_Javabean-Constructor/d3_Javabean-Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d4_String/d4_String.iml" filepath="$PROJECT_DIR$/d4_String/d4_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d5_Array/d5_Array.iml" filepath="$PROJECT_DIR$/d5_Array/d5_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d6_Method/d6_Method.iml" filepath="$PROJECT_DIR$/d6_Method/d6_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d7_Date/d7_Date.iml" filepath="$PROJECT_DIR$/d7_Date/d7_Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d8_Static/d8_Static.iml" filepath="$PROJECT_DIR$/d8_Static/d8_Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d9_Extends/d9_Extends.iml" filepath="$PROJECT_DIR$/d9_Extends/d9_Extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d_Practise-apps/d_Practise-apps.iml" filepath="$PROJECT_DIR$/d_Practise-apps/d_Practise-apps.iml" />
+    </modules>
+  </component>
+</project>

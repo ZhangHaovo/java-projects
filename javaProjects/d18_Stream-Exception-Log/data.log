@@ -1,0 +1,5 @@
+2022-10-31 17:08:00.214 [main] DEBUG d1_Logback.class - main方法开始执行了
+2022-10-31 17:08:00.215 [main] INFO  d1_Logback.class - 开始记录第二行日志，开始做除法
+2022-10-31 17:08:00.215 [main] TRACE d1_Logback.class - a=10
+2022-10-31 17:08:00.215 [main] TRACE d1_Logback.class - b=0
+2022-10-31 17:08:00.215 [main] ERROR d1_Logback.class - 功能出现异常java.lang.ArithmeticException: / by zero
