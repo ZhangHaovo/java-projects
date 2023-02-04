@@ -21,5 +21,8 @@ public class d1_timer {
                 System.out.println(Thread.currentThread().getName() + "执行一次");
             }
         }, 3000,2000);      //延迟3s,周期2s
+
+
+
     }
 }
