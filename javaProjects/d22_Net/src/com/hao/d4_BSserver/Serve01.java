@@ -1,4 +1,4 @@
-package com.hao.d4_BS.d1_BSserver;
+package com.hao.d4_BSserver;
 
 
 import java.net.ServerSocket;
