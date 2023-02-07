@@ -1,0 +1,14 @@
+========Teacher========
+name=波仔
+sex=男
+salary=2352.0
+========Student========
+name=猪八戒
+sex=男
+age=23
+className=1班
+hobby=吃
+========Teacher========
+name=波仔
+sex=男
+salary=2352.0
