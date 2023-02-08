@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+文档约束：是用来限定xml文件中的标签以及属性应该怎么写。
+
+文档约束的分类
+1. DTD:文档约束,按照指定格式编写xml，但是无法约束数据类型
+    - 编写DTD约束文档，后缀必须是.dtd
+    - 在需要编写的XML文件中导入该DTD约束文档
+        <!ELEMENT 书架 (书+)>
+        <!ELEMENT 书 (书名,作者,售价)>
+        <!ELEMENT 书名 (#PCDATA)>
+        <!ELEMENT 作者 (#PCDATA)>
+        <!ELEMENT 售价 (#PCDATA)>
+    - 按照约束的规定编写XML文件的内容
+
+2. schema:schema可以约束具体的数据类型，约束能力上更强大。schema本身也是一个xml文件，本身也受到其他约束文件的要求，所以编写的更加严谨
+    编写schema约束文档，后缀必须是.xsd，具体的形式到代码中观看。
+②：在需要编写的XML文件中导入该schema约束文档
+③：按照约束内容编写XML文件的标签。
+
+
+
+-->
+<!DOCTYPE 书架 SYSTEM "02_constranit_DTD.dtd">
+<书架>
+    <书>
+        <书名>java</书名>
+        <作者>zhangsan</作者>
+        <售价>99</售价>
+    </书>
+    <书>
+        <书名>mysql</书名>
+        <作者>lisi</作者>
+        <售价>88</售价>
+    </书>
+</书架>
