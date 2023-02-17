@@ -16,6 +16,7 @@ public class StarProxy {
             public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
                 /**让真正的对象实现方法，method是正在调用的方法对象,args代表这个方法的参数*/
                 System.out.println("做一些辅助工作");
+
                 Object rs = method.invoke(obj,args);
                 return rs;
             }
